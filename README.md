@@ -6,6 +6,7 @@ I have experience and knowledge in:
  - JS framework such as React
  - common tooling, such as SASS, Webpack, Babel...
  - knowledge in fun stuffs, like three.js  
+
 I also have:  
 - Good UX and Design sensibilities
 - Experience in 3D modeling (Blender) and adobe softwares
