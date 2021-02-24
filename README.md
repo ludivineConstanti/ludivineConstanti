@@ -1,14 +1,14 @@
-### Hi world 👋
+## Hi world 👋
 
 I'm a (French) Creative Developer (previously Art Director) who loves working in an international environment.  
 
-I have experience and knowledge in: 
+### I have experience and knowledge in: 
  - HTML, CSS, and JavaScript
  - JS framework such as React
  - common tooling, such as SASS, Webpack, Babel...
  - fun stuffs, like three.js  
 
-I also have:  
+### I also have:  
 - Good UX and Design sensibilities
 - Experience in 3D modeling (Blender) and adobe softwares
 
