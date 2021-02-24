@@ -1,6 +1,7 @@
 ### Hi world 👋
 
 I'm a (French) Creative Developer (previously Art Director) who loves working in an international environment.  
+
 I have experience and knowledge in: 
  - HTML, CSS, and JavaScript
  - JS framework such as React
