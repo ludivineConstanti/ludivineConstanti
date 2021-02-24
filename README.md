@@ -1,15 +1,11 @@
 ### Hi world 👋
 
 I'm a (French) Creative Developer (previously Art Director) who loves working in an international environment.
+[ - 📜 Here is a link to my linkedin account](https://www.linkedin.com/in/ludivine-constanti/)
+[ - 🎨 You can see my previous Design works here](https://www.behance.net/Lu-di)
 
-I worked and lived in: 
-- 🥖 Paris
-- 🐼 Guangzhou
-- 🗼 Tokyo
-- ⛩️ Hiroshima
-- 🍻 Berlin
-
-
+I worked and lived in: 🥖 Paris 🐼 Guangzhou 🗼 Tokyo ⛩️ Hiroshima 🍻 Berlin
+I can speak 🥐 French and 🥓 English fluently, and can also have a conversation in 🍳 Spanish, 🍙 Japanese and 🥨 German
 I visited: 👸 London, 🏖️ Brighton, 🌊 Santander, 🌳 Montreal, 🗽 New York, 💵 Philadelphia, 🐉 HongKong, 🏰 Matsuyama, 🏞️ Busan, 🥮 Seoul, 🦌 Nara, 🏯 Kyoto, 🌞 Roma, ⛸️ Amsterdam...
 
 <!--
