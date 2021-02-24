@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi world 👋
+
+I'm a (French) Creative Developer (previously Art Director) who loves working in an international environment.
+
+I worked and lived in: 
+- 🥖 Paris
+- 🐼 Guangzhou
+- 🗼 Tokyo
+- ⛩️ Hiroshima
+- 🍻 Berlin
+
+
+I visited: 👸 London, 🏖️ Brighton, 🌊 Santander, 🌳 Montreal, 🗽 New York, 💵 Philadelphia, 🐉 HongKong, 🏰 Matsuyama, 🏞️ Busan, 🥮 Seoul, 🦌 Nara, 🏯 Kyoto, 🌞 Roma, ⛸️ Amsterdam...
 
 <!--
 **ludivineConstanti/ludivineConstanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
