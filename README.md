@@ -3,10 +3,10 @@
 I'm a (French) Creative Developer (previously Art Director) who loves working in an international environment.  
 
 ### I have experience and knowledge in: 
- - HTML, CSS, and JavaScript
+ - HTML, CSS and JavaScript
  - JS framework such as React
- - common tooling, such as SASS, Webpack, Babel...
- - fun stuffs, like three.js  
+ - common tooling, such as Sass, Webpack, Babel...
+ - fun stuffs, like three.js and GSAP
 
 ### I also have:  
 - Good UX and Design sensibilities
