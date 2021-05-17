@@ -13,7 +13,7 @@ I'm a (French) Creative Developer (previously Art Director) who loves working in
 - Good design sensibility
 - Ability to design UX, UI, make concepts and assets
 - Experience in 3D modeling (Blender) and adobe softwares
-- - Experience with animations
+- Experience with animations
 
 [🖼️ Click here, to see my portfolio](https://ludivine-constanti.surge.sh/)  
 [📜 Or here, to my linkedin account](https://www.linkedin.com/in/ludivine-constanti/)  
