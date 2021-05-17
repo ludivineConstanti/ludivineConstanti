@@ -3,18 +3,21 @@
 I'm a (French) Creative Developer (previously Art Director) who loves working in an international environment.  
 
 ### I have experience and knowledge in: 
- - HTML, CSS and JavaScript
+ - HTML, XML, CSS, Sass, and JavaScript
  - JS framework such as React
- - common tooling, such as Sass, Webpack, Babel...
+ - Libraries (Styled Components, Framer Motion...)
+ - common tooling, such as Webpack, Babel...
  - fun stuffs, like three.js and GSAP
 
 ### I also have:  
-- Good UX and Design sensibilities
+- Good design sensibility
+- Ability to design UX, UI, make concepts and assets
 - Experience in 3D modeling (Blender) and adobe softwares
+- - Experience with animations
 
-
-[📜 Here is a link to my linkedin account](https://www.linkedin.com/in/ludivine-constanti/)  
-[🎨 You can see my previous Design works here](https://www.behance.net/Lu-di)  
+[🖼️ Click here, to see my portfolio](https://ludivine-constanti.surge.sh/)  
+[📜 Or here, to my linkedin account](https://www.linkedin.com/in/ludivine-constanti/)  
+[🎨 And you can see my previous Design works here](https://www.behance.net/Lu-di)  
 
 I worked and lived in: 🥖 Paris 🐼 Guangzhou 🗼 Tokyo ⛩️ Hiroshima 🍻 Berlin  
 
