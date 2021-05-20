@@ -1,6 +1,7 @@
 ## Hi world 👋
 
-I'm a (French) Creative Developer (previously Art Director) who loves working in an international environment. I am currently living in Berlin.
+I'm a (French) Creative Developer (previously Art Director) who loves working in an international environment.  
+I am currently living in Berlin.
 
 ### I have experience and knowledge in: 
  - HTML, XML, CSS, Sass, and JavaScript
