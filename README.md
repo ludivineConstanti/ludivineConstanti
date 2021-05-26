@@ -4,11 +4,13 @@ I'm a (French) Creative Developer (previously Art Director) who loves working in
 I am currently living in Berlin.
 
 ### I have experience and knowledge in: 
- - HTML, XML, CSS, Sass, and JavaScript
+ - HTML, XML, CSS, Sass, JSS, and JavaScript
  - JS framework such as React
  - Libraries (Styled Components, Framer Motion...)
- - common tooling, such as Webpack, Babel...
  - fun stuffs, like three.js and GSAP
+ - common tooling, such as Webpack, Babel, ESLint...
+ - automated testing with Jest and React Testing Library
+ - manual testing
 
 ### I also have:  
 - Good design sensibility
