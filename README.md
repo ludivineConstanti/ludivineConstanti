@@ -10,7 +10,8 @@ I am currently living in Berlin.
  - Fun stuffs, like three.js and GSAP
  - Module bundler (Webpack)
  - JavaScript transpiler (Babel)
- - Static code analysis tools (ESlint, Prettier...)
+ - Static code analysis tool (ESlint)
+ - Formatting tool (Prettier)
  - Command line tool (Create React App)
  - Automated testing (Jest and React Testing Library)
  - Manual testing
