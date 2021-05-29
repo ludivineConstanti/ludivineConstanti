@@ -7,10 +7,13 @@ I am currently living in Berlin.
  - HTML, XML, CSS, Sass, JSS, JSX and JavaScript
  - JS framework such as React
  - Libraries (Styled Components, Framer Motion...)
- - fun stuffs, like three.js and GSAP
- - common tooling, such as Webpack, Babel, ESLint...
- - automated testing with Jest and React Testing Library
- - manual testing
+ - Fun stuffs, like three.js and GSAP
+ - Module bundler (Webpack)
+ - JavaScript transpiler (Babel)
+ - Static code analysis tools (ESlint, Prettier...)
+ - Command line tool (Create React App)
+ - Automated testing (Jest and React Testing Library)
+ - Manual testing
 
 ### I also have:  
 - Good design sensibility
