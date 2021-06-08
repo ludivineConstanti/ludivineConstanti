@@ -19,8 +19,9 @@ I am currently living in Berlin.
 ### I also have:  
 - Good design sensibility
 - Ability to design UX, UI, make concepts and assets
-- Experience in 3D modeling (Blender) and adobe softwares
-- Experience with animations
+- Experience in 3D modeling (Blender) 
+- Experience in design softwares (Photoshop, Illustrator, Adobe XD, Figma)
+- Experience with animations (After Effects, Framer Motion, GSAP)
 
 [🖼️ Click here, to see my portfolio](https://ludivine-constanti.surge.sh/)  
 [📜 Or here, to my linkedin account](https://www.linkedin.com/in/ludivine-constanti/)  
