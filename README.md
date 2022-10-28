@@ -26,7 +26,7 @@ I am currently living in Berlin and working remotely.
 [🖼️ Portfolio](https://ludivine-constanti.surge.sh/)  
 [📜 Linkedin account](https://www.linkedin.com/in/ludivine-constanti/)  
 [🖋️ Medium account](https://medium.com/@ludivine.constanti)           
-[🎨 Previous Design works](https://www.behance.net/Lu-di)  
+[🎨 Previous Design work](https://www.behance.net/Lu-di)  
 
 I worked and lived in: 🥖 Paris 🐼 Guangzhou 🗼 Tokyo ⛩️ Hiroshima 🍻 Berlin 🌊 Lisbon 🌴 Chiang Mai
 
