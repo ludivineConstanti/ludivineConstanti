@@ -23,10 +23,10 @@ I am currently living in Berlin and working remotely.
 - Experience in design softwares (Photoshop, Illustrator, Adobe XD, Figma...)
 - Experience with animations (After Effects, Framer Motion, GSAP...)
 
-[🖼️ Click here, to see my portfolio](https://ludivine-constanti.surge.sh/)  
-[📜 Or here, to my linkedin account](https://www.linkedin.com/in/ludivine-constanti/)  
-[🖋️ Here, to see the articles I wrote on Medium](https://medium.com/@ludivine.constanti)           
-[🎨 And you can see my previous Design works here](https://www.behance.net/Lu-di)  
+[🖼️ Portfolio](https://ludivine-constanti.surge.sh/)  
+[📜 Linkedin account](https://www.linkedin.com/in/ludivine-constanti/)  
+[🖋️ Medium account](https://medium.com/@ludivine.constanti)           
+[🎨 Previous Design works](https://www.behance.net/Lu-di)  
 
 I worked and lived in: 🥖 Paris 🐼 Guangzhou 🗼 Tokyo ⛩️ Hiroshima 🍻 Berlin 🌊 Lisbon 🌴 Chiang Mai
 
