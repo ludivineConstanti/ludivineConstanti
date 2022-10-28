@@ -25,9 +25,10 @@ I am currently living in Berlin and working remotely.
 
 [🖼️ Click here, to see my portfolio](https://ludivine-constanti.surge.sh/)  
 [📜 Or here, to my linkedin account](https://www.linkedin.com/in/ludivine-constanti/)  
+[🖋️ Here, to see the articles I wrote on Medium](https://medium.com/@ludivine.constanti)
 [🎨 And you can see my previous Design works here](https://www.behance.net/Lu-di)  
 
-I worked and lived in: 🥖 Paris 🐼 Guangzhou 🗼 Tokyo ⛩️ Hiroshima 🍻 Berlin 🌊 Lisbon
+I worked and lived in: 🥖 Paris 🐼 Guangzhou 🗼 Tokyo ⛩️ Hiroshima 🍻 Berlin 🌊 Lisbon 🌴 Chiang Mai
 
 I can speak 🥐 French and 🥓 English fluently, and can also have a conversation in 🍳 Spanish, 🍙 Japanese and 🥨 German  
 
