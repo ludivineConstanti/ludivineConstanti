@@ -11,7 +11,7 @@ I am currently living in Berlin and working remotely.
  - 💾 - Web scraping
  - 🎨 - Styling and animations (CSS, Sass, Styled Components, Framer Motion, React Spring...)
  - 📚 - Libraries (Mapbox...)
- - 🎉 - Fun stuffs, like three.js and GSAP
+ - 🎉 - Fun stuffs, like three.js, React three fiber and GSAP
  - 📈 - Data visualization (d3)
  - ✍️ - Manual testing
 
@@ -28,9 +28,9 @@ I am currently living in Berlin and working remotely.
 [🖋️ Medium account](https://medium.com/@ludivine.constanti)           
 [🎨 Previous Design work](https://www.behance.net/Lu-di)  
 
-I worked and lived in: 🥖 Paris 🐼 Guangzhou 🗼 Tokyo ⛩️ Hiroshima 🍻 Berlin 🌊 Lisbon 🌴 Chiang Mai
+I worked and lived in: 🥖 Paris 🐼 Guangzhou 🗼 Tokyo ⛩️ Hiroshima 🍻 Berlin 🌊 Lisbon 🌴 Chiang Mai 🏨 Kuala Lumpur
 
-I can speak 🥐 French and 🥓 English fluently, and can also have a conversation in 🍳 Spanish, 🍙 Japanese and 🥨 German  
+I can speak 🥐 French and 🥓 English and 🥨 German fluently, and can also have a conversation in 🍳 Spanish and 🍙 Japanese  
 
 I visited: 👸 London, 🏖️ Brighton, 🌊 Santander, 🌳 Montreal, 🗽 New York, 💵 Philadelphia, 🐉 HongKong, 🏰 Matsuyama, 🏞️ Busan, 🥮 Seoul, 🦌 Nara, 🏯 Kyoto, 🌞 Roma, ⛸️ Amsterdam...
 
