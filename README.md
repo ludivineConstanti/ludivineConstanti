@@ -28,11 +28,11 @@ I am currently living in Berlin and working remotely.
 [🖋️ Medium account](https://medium.com/@ludivine.constanti)           
 [🎨 Previous Design work](https://www.behance.net/Lu-di)  
 
-I worked and lived in: 🥖 Paris 🐼 Guangzhou 🗼 Tokyo ⛩️ Hiroshima 🍻 Berlin 🌊 Lisbon 🌴 Chiang Mai 🏨 Kuala Lumpur
+I worked and lived in: 🥖 Paris 🐼 Guangzhou 🗼 Tokyo ⛩️ Hiroshima 🍻 Berlin 🌊 Lisbon 🌴 Chiang Mai 🏨 Kuala Lumpur ☀️ Da Nang
 
 I can speak 🥐 French and 🥓 English and 🥨 German fluently, and can also have a conversation in 🍳 Spanish and 🍙 Japanese  
 
-I visited: 👸 London, 🏖️ Brighton, 🌊 Santander, 🌳 Montreal, 🗽 New York, 💵 Philadelphia, 🐉 HongKong, 🏰 Matsuyama, 🏞️ Busan, 🥮 Seoul, 🦌 Nara, 🏯 Kyoto, 🌞 Roma, ⛸️ Amsterdam...
+I visited: 👸 London, 🏖️ Brighton, 🌊 Santander, 🌳 Montreal, 🗽 New York, 💵 Philadelphia, 🐉 HongKong, 🏰 Matsuyama, 🏞️ Busan, 🥮 Seoul, 🦌 Nara, 🏯 Kyoto, 🌞 Roma, ⛸️ Amsterdam, ☀️ Penang, 🌊 Singapore...
 
 <!--
 **ludivineConstanti/ludivineConstanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
