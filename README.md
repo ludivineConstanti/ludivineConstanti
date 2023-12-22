@@ -29,7 +29,7 @@ I am currently working remotely and using English and German in my daily life.
 
 [🖼️ Portfolio](https://ludivine-constanti.surge.sh/)  
 [📜 Linkedin account](https://www.linkedin.com/in/ludivine-constanti/)  
-[📃 Hashnode account](https://ludivine-constanti.hashnode.dev/)
+[📃 Hashnode account](https://ludivine-constanti.hashnode.dev/)  
 [🖋️ Medium account](https://medium.com/@ludivine.constanti)           
 [🎨 Previous Design work](https://www.behance.net/Lu-di)  
 [📸 Instagram](https://www.instagram.com/ludivine_constanti/) 
