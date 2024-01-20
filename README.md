@@ -34,7 +34,7 @@ I am currently working remotely and using English and German in my daily life.
 [🎨 Previous Design work](https://www.behance.net/Lu-di)  
 [📸 Instagram](https://www.instagram.com/ludivine_constanti/) 
 
-I worked and lived in: 🥖 Paris 🐼 Guangzhou 🗼 Tokyo ⛩️ Hiroshima 🍻 Berlin 🌊 Lisbon 🏠 Porto
+I worked and lived in: 🥖 Paris 🐼 Guangzhou 🗼 Tokyo ⛩️ Hiroshima 🍻 Berlin 🌊 Lisbon 🏠 Porto ❄️ Bansko
 
 I can speak 🥐 French and 🥓 English and 🥨 German fluently, and can also have a conversation in 🍳 Spanish and 🍙 Japanese  
 
