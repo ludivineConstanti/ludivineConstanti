@@ -27,7 +27,7 @@ I am currently working remotely and using English and German in my daily life.
 - Experience in design softwares (Photoshop, Illustrator, Adobe XD, Figma...)
 - Experience with animations (After Effects, Framer Motion, GSAP...)
 
-[🖼️ Portfolio](https://ludivine-constanti.surge.sh/)  
+[🖼️ Portfolio](https://lu-di.dev/)  
 [📜 Linkedin account](https://www.linkedin.com/in/ludivine-constanti/)  
 [📃 Hashnode account](https://ludivine-constanti.hashnode.dev/)  
 [🖋️ Medium account](https://medium.com/@ludivine.constanti)           
