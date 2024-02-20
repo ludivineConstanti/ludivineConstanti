@@ -7,22 +7,23 @@ I am currently working remotely and using English and German in my daily life.
  - 📄 - HTML, XML, JSS, JSX, JavaScript
  - ♿ - Accessibility for the web
  - ✅ - Static typing with TypeScript
- - 🖼️ - JS framework such as React, Gatsby and Astro
+ - 🖼️ - JS framework such as React, Gatsby, Astro & Vite
  - 💽 - Querying data with GraphQL
  - 💾 - Web scraping
- - 🎨 - Styling and animations (CSS, Sass, Styled Components, Framer Motion, React Spring, Theatre.js, GSAP...)
+ - 🎨 - Styling and animations (CSS, Sass, Styled Components, Tailwind CSS, Framer Motion, React Spring, Theatre.js, GSAP...)
  - 📚 - Libraries (Mapbox...)
  - 🎉 - Fun stuffs, like three.js and React three fiber
  - 📈 - Data visualization (d3)
  - 📊 - Data analytics (Matomo)
  - 📂 - CMS (Craft CMS + Decap CMS)
- - ✍️ - Manual and automated testing
+ - ✍️ - Manual and automated testing (Jest)
+ - ⚙️ - Processing assets with Node.js
 
 ### I also have professional experience as an Art Director, 
 ### which helped me getting:  
 - Good design sensibility
 - Mentorship skills
-- Ability to design UX, UI, make concepts and assets
+- Ability to design UX, UI, create concepts, illustrations and 2D & 3D assets
 - Experience in 3D modeling (Blender...) 
 - Experience in design softwares (Photoshop, Illustrator, Adobe XD, Figma...)
 - Experience with animations (After Effects, Framer Motion, GSAP...)
