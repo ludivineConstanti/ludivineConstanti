@@ -3,6 +3,8 @@
 I'm a (French) Developer who loves working in an international environment.  
 I am currently working remotely and using English and German in my daily life.
 
+[🖼️ Portfolio](https://lu-di.dev/) 
+
 ### I have experience and knowledge in: 
  - 📄 - HTML, XML, JSS, JSX, JavaScript
  - ♿ - Accessibility for the web
@@ -27,8 +29,7 @@ I am currently working remotely and using English and German in my daily life.
 - Experience in 3D modeling (Blender...) 
 - Experience in design softwares (Photoshop, Illustrator, Adobe XD, Figma...)
 - Experience with animations (After Effects, Framer Motion, GSAP...)
-
-[🖼️ Portfolio](https://lu-di.dev/)  
+ 
 [📜 Linkedin account](https://www.linkedin.com/in/ludivine-constanti/)  
 [📃 Hashnode account](https://ludivine-constanti.hashnode.dev/)  
 [🖋️ Medium account](https://medium.com/@ludivine.constanti)           
