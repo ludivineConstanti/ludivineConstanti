@@ -5,11 +5,13 @@ I am currently working remotely and using English and German in my daily life.
 
 [🖼️ Portfolio](https://lu-di.dev/) 
 
-### I have experience and knowledge in: 
- - 📄 - HTML, XML, JSS, JSX, JavaScript
- - ♿ - Accessibility for the web
- - ✅ - Static typing with TypeScript
+### I have experience and knowledge in:
+
+ - 📄 - HTML, XML, JSS, JSX, JavaScript, TypeScript
+ - ✅ - SQL, Nest JS, Prisma ORM
+ - 🤖 - Developing AI features with LangChain, LangGraph, LangSmith, Vercel's AI SDK, RAG, vector databases & embeddings
  - 🖼️ - JS framework such as React, Gatsby, Astro & Vite
+ - ♿ - Accessibility for the web
  - 💽 - Querying data with GraphQL
  - 💾 - Web scraping
  - 🎨 - Styling and animations (CSS, Sass, Styled Components, Tailwind CSS, Framer Motion, React Spring, Theatre.js, GSAP...)
@@ -21,14 +23,17 @@ I am currently working remotely and using English and German in my daily life.
  - ✍️ - Manual and automated testing (Jest)
  - ⚙️ - Processing assets with Node.js
 
-### I also have professional experience as an Art Director, 
-### which helped me getting:  
-- Good design sensibility
+### I also have professional experience as an Art Director
+
+### which helped me getting: 
+
+- Ability to design UX, UI, create concepts
+- Good planning and organization skills
+- Attention to details in UX/UI
+- Understanding of feature priorities and what is the most beneficials for projects
 - Mentorship skills
-- Ability to design UX, UI, create concepts, illustrations and 2D & 3D assets
-- Experience in 3D modeling (Blender...) 
+
 - Experience in design softwares (Photoshop, Illustrator, Adobe XD, Figma...)
-- Experience with animations (After Effects, Framer Motion, GSAP...)
  
 [📜 Linkedin account](https://www.linkedin.com/in/ludivine-constanti/)  
 [📃 Hashnode account](https://ludivine-constanti.hashnode.dev/)  
