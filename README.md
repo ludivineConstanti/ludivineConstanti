@@ -1,6 +1,6 @@
 ## Hi world 👋
 
-I'm a (French) Developer who loves working in an international environment.  
+I'm a (French) ✨ AI-augmented ✨ Full Stack Developer who loves working in an international environment.  
 I am currently working remotely and using English and German in my daily life.
 
 [🖼️ Portfolio](https://lu-di.dev/) 
